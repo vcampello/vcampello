@@ -1,10 +1,32 @@
-# Hey, it's-a me, Victor!
+# Hey, it's-a me, VC!
 
-Another code afictionado. You'll find me either coding, playing games or working on my bike.
+Senior Backend Engineer building insurance tech
 
-Currently working with TypeScript and AWS.
-<!-- 
-![Stats](https://github-readme-stats-mt2b8g46w-vcampello.vercel.app/api?username=vcampello&count_private=true&include_all_commits=true&theme=slateorange&hide_title=true)
+## What I'm working on
 
-[![Languages](https://github-readme-stats-mt2b8g46w-vcampello.vercel.app/api/top-langs/?username=vcampello&theme=slateorange)](https://github.com/vcampello/github-readme-stats)
--->
+Currently building event-driven systems that process telematics data to help drivers get tailored insurance.
+
+## Current stack
+
+- TypeScript
+- AWS (Lambda, DynamoDB, SQS/SNS, API Gateway, CDK)
+- Go occasionally
+- ~Way too much time in~ Datadog dashboards
+
+## Things I care about
+
+- **Developer experience**: life's too short for tools that get in your way and bad CI/CD pipelines
+- **YAGNI (you ain't gonna need it)**: write the basic implementation first. Don't abstract before you need it
+- **Infrastructure as Code**: if you're going to deploy then it better be reproducible
+- **Learning**: there are too many cool things out there
+
+## Random facts
+
+- Ride my CBR600F when the weather cooperates
+- Gaming when the weather does not cooperate
+- I maintain my entire dev environment in a dotfiles repo (I'm too attached to my tools)
+- Always learning something new (currently Rust, but ask me again in 3 months)
+
+## Where to find me
+
+- [LinkedIn](https://linkedin.com/in/vcampello)
