@@ -29,4 +29,4 @@ Currently building event-driven systems that process telematics data to help dri
 
 ## Where to find me
 
-- [LinkedIn](https://linkedin.com/in/vcampello)
+- [LinkedIn](https://linkedin.com/in/victor-campello-teixeira)
